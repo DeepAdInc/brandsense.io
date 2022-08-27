@@ -11,6 +11,10 @@ html, body {
     border-bottom: 2px solid #0A0A0A;
 }
 
+.navbar-custom-brandsense img {
+    height:40px;
+}
+
 .header-custom-brandsense {
     background-color:#131313;
     border-bottom: 2px solid #0A0A0A;
